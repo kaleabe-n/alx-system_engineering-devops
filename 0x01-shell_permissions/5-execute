@@ -1,2 +1,2 @@
 #!/bin/bash
-5-excute
+sudo chmod 764 hello
